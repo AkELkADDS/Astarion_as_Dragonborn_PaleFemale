@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="be741b6f-83d7-3c47-12c1-b81af59dc1ab"/>
+            <attribute id="Name" type="LSString" value="Astarion_as_Dragonborn_EL"/>
+            <attribute id="UUID" type="LSString" value="623aaf73-ef9b-d0ac-9de0-c414dd642438"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
