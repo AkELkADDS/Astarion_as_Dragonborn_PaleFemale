@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="CharacterCreationSkinColors">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationSkinColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6edfe22bg8308g07f2g0e8dgb696c4166fa0" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="8df5adae-ac7c-4689-edeb-bbc22836bc6e"/>
+                    <attribute id="Name" type="FixedString" value="SKIN_DGB_White_Red_Accent_1_Vexa_Astarion_EL_1"/>
+                    <attribute id="SkinType" type="FixedString" value="Dragonborn"/>
+                    <attribute id="UIColor" type="LSString" value="#FFC9BAB9"/>
+                    <attribute id="UUID" type="guid" value="a8f498fb-fd2e-40d8-93a4-c9089f667063"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

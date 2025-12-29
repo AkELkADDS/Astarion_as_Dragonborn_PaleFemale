@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <content contentuid="h446e1ff9g1341g4339g9684g06162e176c6d" version="15">Astarion</content>
+  <content contentuid="h446e1ff9g1341g4339g9684g06162e176c6d" version="16">Astarion</content>
   <content contentuid="hf528d12dg4695g4a8bg8746g847da146f827" version="13">Astarion</content>
   <content contentuid="hd84d7768g34a5g4854gb471gbda76b8f76d5" version="9">Astarion</content>
   <content contentuid="h818a9906g4edag4ffeg8ab5g314dbaefbaba" version="9">Astarion</content>
@@ -19,4 +19,5 @@
   <content contentuid="h3bdc5e7agba49g1398gd4f0g81979ce1b518" version="4">This Black Dragonborn’s scales are unusually weathered, their once-dark hues faded to pale, chalk-white patches, as though something has been slowly drawn out of them over time.</content>
   <content contentuid="hea58e382gafb1gcb8bgf99fg1874daf111be" version="1">Astarion</content>
   <content contentuid="hb18783d7gaafdgfbccga513g8907e588e0f8" version="1">After two hundred years serving a cruel master, the vampire spawn Astarion is finally free - free to walk in the sun, free to chase power, and free to take revenge.</content>
+  <content contentuid="h6edfe22bg8308g07f2g0e8dgb696c4166fa0" version="1">White Ruby Astarion</content>
 </contentList>

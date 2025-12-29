@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="6af7c7da-7f7c-4bf2-a517-73b98f894305">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a8f498fb-fd2e-40d8-93a4-c9089f667063" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="SKIN_DGB_White_Red_Accent_1_Vexa_Astarion_EL_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6edfe22bg8308g07f2g0e8dgb696c4166fa0" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="8df5adae-ac7c-4689-edeb-bbc22836bc6e" />
+        <field name="UIColor" type="ColorTableFieldDefinition" value="#FFC9BAB9" />
+        <field name="SkinType" type="EnumerationTableFieldDefinition" value="Dragonborn" enumeration_type_name="CharacterCreatorSkinTypes" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

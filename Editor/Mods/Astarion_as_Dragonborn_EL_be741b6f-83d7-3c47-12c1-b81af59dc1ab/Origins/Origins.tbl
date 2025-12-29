@@ -9,7 +9,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hea58e382gafb1gcb8bgf99fg1874daf111be" version="1" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" color="#FF483D8B" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
-        <field name="AppearanceLocked" type="BoolTableFieldDefinition" value="False" />
+        <field name="AppearanceLocked" type="BoolTableFieldDefinition" color="#FF8B0000" value="False" />
         <field name="GlobalTemplate" type="GuidTableFieldDefinition" value="c7c13742-bacd-460a-8f65-f864fe41f255" />
         <field name="NameFS" type="FixedStringTableFieldDefinition" value="Astarion" />
         <field name="ClassUUID" type="GuidTableFieldDefinition" value="e8b1eab0-ef11-40a2-8a0b-cee8d062bf2a" />
@@ -26,7 +26,7 @@
         <field name="ClassEquipmentOverride" type="FixedStringTableFieldDefinition" value="EQ_Astarion" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="LockClass" type="BoolTableFieldDefinition" value="True" />
-        <field name="LockBody" type="BoolTableFieldDefinition" value="True" />
+        <field name="LockBody" type="BoolTableFieldDefinition" color="#FF8B0000" value="False" />
         <field name="LockRace" type="BoolTableFieldDefinition" value="True" />
         <field name="IntroDialogUUID" type="GuidTableFieldDefinition" value="0985c3fd-2506-7d59-1146-bff949492a88" />
       </fields>
