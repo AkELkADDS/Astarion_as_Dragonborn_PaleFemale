@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab 
-   Mon 12/29/2025 22:00:45.21 
+   Tue 01/06/2026 17:50:24.09 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -45,6 +45,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\Assets\Characters\[PAK]_Character_Presets\6788a271-9ad5-074f-8a5f-12b7dcb29174.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\Assets\Characters\[PAK]_Character_Presets\a66864fa-0820-7ed4-d26a-8dc0d397a5e5.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\0cbc9957-b289-946e-e967-500368ba2488.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\18b1e6fe-730a-8b01-e7c1-6c766fef32ca.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\215f497d-2e24-2a61-9db8-7cff286568bd.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\24b5019e-f7c2-d7bd-3dfc-4d4b8aa4a294.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\3bb03c05-fe26-0950-8ef9-6e5e7649d126.lsf 
@@ -73,13 +74,16 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_CharacterVisuals\f0c1cd99-8f94-e5ba-86b3-bfc048af906e.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Origins\Origins.lsx 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Races\Races.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\2775ae46-2b98-4268-b89e-0af71876a09a.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\300b2a01-5a5b-48e8-a344-5aeaefbc7b1f.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\5614c25e-0213-479f-864c-e95895adb30f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\734c63a9-90ca-4312-b476-9a7ee896f20b.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\a042de0c-f526-40a1-9299-19223d0922b8.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\d7254077-2adc-4729-99e1-c3b9cc6e96e4.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\ec0f5943-403f-415f-a80d-3e9740a6c907.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\f1fe95f7-223c-43db-8ad5-84a617804dfd.lsf 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab: 41 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\f4c9cb22-bdc0-4cdf-b73d-1450570d951e.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab: 45 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab 
  
@@ -87,7 +91,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Companion_Astarion_DGB\Base\DGB_F_Astarion_Base.GR2 
 Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab: 1 
  
-[LOG] Total files found across all folders: 51 
+[LOG] Total files found across all folders: 55 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -103,7 +107,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, December 29, 2025 10:00:48 PM
+  Started : Tuesday, January 6, 2026 5:50:27 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\
      Dest : C:\GIT_BG3\MOD_REPOS\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Projects\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\
 
@@ -114,7 +118,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\meta.lsx100%  
-	    New File  		   1.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\thumbnail.png 63%  100%  
+	    New File  		   1.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\thumbnail.png 37%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -123,7 +127,11 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :    1.98 m    1.98 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, December 29, 2025 10:00:48 PM
+
+
+   Speed :           2077891000 Bytes/sec.
+   Speed :           118897.876 MegaBytes/min.
+   Ended : Tuesday, January 6, 2026 5:50:27 PM
 
  
 [DEBUG] Counting source files 
@@ -149,7 +157,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, December 29, 2025 10:00:50 PM
+  Started : Tuesday, January 6, 2026 5:50:28 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\
      Dest : C:\GIT_BG3\MOD_REPOS\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Editor\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\
 
@@ -160,7 +168,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		    1068	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\CharacterCreationPresets\CharacterCreationSkinColors.tbl100%  
-	    New File  		    3197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Origins\Origins.tbl100%  
+	    New File  		    3159	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Origins\Origins.tbl100%  
 	    New File  		    7069	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Races\Races.tbl100%  
 
 ------------------------------------------------------------------------------
@@ -170,11 +178,7 @@ SECTION 2: COPY OPERATIONS
    Files :         3         3         0         0         0         0
    Bytes :    11.0 k    11.0 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-
-
-   Speed :            11334000 Bytes/sec.
-   Speed :             648.536 MegaBytes/min.
-   Ended : Monday, December 29, 2025 10:00:50 PM
+   Ended : Tuesday, January 6, 2026 5:50:28 PM
 
  
 [DEBUG] Counting source files 
@@ -200,7 +204,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, December 29, 2025 10:00:52 PM
+  Started : Tuesday, January 6, 2026 5:50:30 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\
      Dest : C:\GIT_BG3\MOD_REPOS\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\
 
@@ -211,22 +215,22 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   16985	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\meta.lsx100%  
-	    New File  		   1.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\mod_publish_logo.png 12%  100%  
+	    New File  		   1.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\GUI\metadata.lsf100%  
-	    New File  		    2897	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Localization\English\english.xml100%  
+	    New File  		    3326	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Localization\English\english.xml100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         4         4         1         0         0         0
+    Dirs :         7         7         1         0         0         0
    Files :         4         4         0         0         0         0
    Bytes :    2.00 m    2.00 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           2098210000 Bytes/sec.
-   Speed :           120060.539 MegaBytes/min.
-   Ended : Monday, December 29, 2025 10:00:52 PM
+   Speed :           1049319500 Bytes/sec.
+   Speed :            60042.543 MegaBytes/min.
+   Ended : Tuesday, January 6, 2026 5:50:30 PM
 
  
 [DEBUG] Counting source files 
@@ -252,7 +256,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, December 29, 2025 10:00:53 PM
+  Started : Tuesday, January 6, 2026 5:50:32 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\
      Dest : C:\GIT_BG3\MOD_REPOS\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\
 
@@ -265,41 +269,45 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     970	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\CharacterCreationPresets\CharacterCreationSkinColors.lsx100%  
 	    New File  		    2838	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Origins\Origins.lsx100%  
 	    New File  		   22562	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Races\Races.lsx100%  
+	    New File  		    2612	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\2775ae46-2b98-4268-b89e-0af71876a09a.lsf100%  
 	    New File  		    1636	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\300b2a01-5a5b-48e8-a344-5aeaefbc7b1f.lsf100%  
 	    New File  		    2533	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\5614c25e-0213-479f-864c-e95895adb30f.lsf100%  
+	    New File  		    1632	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\734c63a9-90ca-4312-b476-9a7ee896f20b.lsf100%  
 	    New File  		    2907	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\a042de0c-f526-40a1-9299-19223d0922b8.lsf100%  
 	    New File  		    2811	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\d7254077-2adc-4729-99e1-c3b9cc6e96e4.lsf100%  
 	    New File  		    2564	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\ec0f5943-403f-415f-a80d-3e9740a6c907.lsf100%  
 	    New File  		    2831	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\f1fe95f7-223c-43db-8ad5-84a617804dfd.lsf100%  
-	    New File  		   12524	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Companion_Astarion_DGB\Base\DGB_F_Astarion_Base.GR2100%  
-	    New File  		     158	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Companion_Astarion_DGB\Base\DGB_F_Astarion_Base.xml100%  
+	    New File  		    1848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\RootTemplates\f4c9cb22-bdc0-4cdf-b73d-1450570d951e.lsf100%  
 	    New File  		    5863	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\0cbc9957-b289-946e-e967-500368ba2488.lsf100%  
+	    New File  		    4263	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\18b1e6fe-730a-8b01-e7c1-6c766fef32ca.lsf100%  
 	    New File  		    5270	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\215f497d-2e24-2a61-9db8-7cff286568bd.lsf100%  
 	    New File  		    5603	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\24b5019e-f7c2-d7bd-3dfc-4d4b8aa4a294.lsf100%  
-	    New File  		    2165	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\3bb03c05-fe26-0950-8ef9-6e5e7649d126.lsf100%  
+	    New File  		    2168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\3bb03c05-fe26-0950-8ef9-6e5e7649d126.lsf100%  
 	    New File  		    4719	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\4fe50b5e-dff3-d095-703d-67ec6bba4202.lsf100%  
 	    New File  		    5867	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\57b36306-9d5d-438f-f0f5-d001fce454aa.lsf100%  
-	    New File  		    4268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\69c82f6a-abcc-0640-2bc3-6a1969963480.lsf100%  
+	    New File  		    4271	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\69c82f6a-abcc-0640-2bc3-6a1969963480.lsf100%  
 	    New File  		    4362	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\8d1857bc-f072-e803-443e-151c4271ecc8.lsf100%  
-	    New File  		    7286	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\8df5adae-ac7c-4689-edeb-bbc22836bc6e.lsf100%  
+	    New File  		    7289	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\8df5adae-ac7c-4689-edeb-bbc22836bc6e.lsf100%  
 	    New File  		    7750	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\9fc61e58-e79b-4e66-bafc-c95f745db0ba.lsf100%  
-	    New File  		    7298	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\a60b0d94-6725-c7ac-35ae-b24f54321c7c.lsf100%  
+	    New File  		    7301	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\a60b0d94-6725-c7ac-35ae-b24f54321c7c.lsf100%  
 	    New File  		    5581	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\b4daed1a-e92e-e8db-0d17-bb3c8ed31dde.lsf100%  
-	    New File  		    7298	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\bbd9583f-7d91-43f3-a43f-4dfdc4f8588a.lsf100%  
-	    New File  		    4265	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\c83ba4f6-8308-9774-b385-0ca3d2bdcb9c.lsf100%  
+	    New File  		    7301	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\bbd9583f-7d91-43f3-a43f-4dfdc4f8588a.lsf100%  
+	    New File  		    4268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\c83ba4f6-8308-9774-b385-0ca3d2bdcb9c.lsf100%  
 	    New File  		    4743	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\d68cb477-0475-da66-c385-e6f5af11c5c9.lsf100%  
 	    New File  		    5309	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\d8c21652-a65e-e116-b1e0-454aa2dc78ae.lsf100%  
-	    New File  		    4266	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\eaa6a4d2-8f63-107a-9a58-2cb83720bcca.lsf100%  
-	    New File  		    7296	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\f7d2a094-1873-477c-41b2-f2b04b011ee3.lsf100%  
+	    New File  		    4269	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\eaa6a4d2-8f63-107a-9a58-2cb83720bcca.lsf100%  
+	    New File  		    7299	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_Astarion_as_Dragonborn_EL\f7d2a094-1873-477c-41b2-f2b04b011ee3.lsf100%  
 	    New File  		    8324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_CharacterVisuals\14c23242-b819-0d30-f5ba-5e6c9b4b6088.lsf100%  
 	    New File  		    7878	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_CharacterVisuals\255e4a19-65dc-27d5-bf7c-885ca92d6ea6.lsf100%  
 	    New File  		    9331	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_CharacterVisuals\4c344a90-588a-59a9-5495-3fc33893b3b0.lsf100%  
-	    New File  		    7854	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_CharacterVisuals\7407f64a-af3f-1f9d-ae7d-8704227c5c27.lsf100%  
+	    New File  		    7967	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_CharacterVisuals\7407f64a-af3f-1f9d-ae7d-8704227c5c27.lsf100%  
 	    New File  		    8374	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_CharacterVisuals\8b717bd5-cdc9-66b4-9ae0-908f9b9173a2.lsf100%  
 	    New File  		    8054	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_CharacterVisuals\96824355-8954-2b76-5a1d-9503b93f796b.lsf100%  
 	    New File  		    8532	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_CharacterVisuals\b2da9993-29a6-dc63-23dd-8b319047230c.lsf100%  
-	    New File  		   14815	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_CharacterVisuals\be9fbfe1-cf9c-7864-55d3-bbd6d329150b.lsf100%  
+	    New File  		   14049	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_CharacterVisuals\be9fbfe1-cf9c-7864-55d3-bbd6d329150b.lsf100%  
 	    New File  		    8821	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\[PAK]_CharacterVisuals\f0c1cd99-8f94-e5ba-86b3-bfc048af906e.lsf100%  
+	    New File  		   12524	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Companion_Astarion_DGB\Base\DGB_F_Astarion_Base.GR2100%  
+	    New File  		     158	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Companion_Astarion_DGB\Base\DGB_F_Astarion_Base.xml100%  
 	    New File  		    4620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\Assets\Characters\[PAK]_Character_Presets\572763d2-d40a-1def-510b-f878b9cd8da8.lsf100%  
 	    New File  		    5165	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\Assets\Characters\[PAK]_Character_Presets\6788a271-9ad5-074f-8a5f-12b7dcb29174.lsf100%  
 	    New File  		    5393	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Content\Assets\Characters\[PAK]_Character_Presets\a66864fa-0820-7ed4-d26a-8dc0d397a5e5.lsf100%  
@@ -308,22 +316,22 @@ SECTION 2: COPY OPERATIONS
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        13        13         1         0         0         0
-   Files :        41        41         0         0         0         0
-   Bytes :   244.8 k   244.8 k         0         0         0         0
+   Files :        45        45         0         0         0         0
+   Bytes :   254.3 k   254.3 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            31338000 Bytes/sec.
-   Speed :            1793.174 MegaBytes/min.
-   Ended : Monday, December 29, 2025 10:00:53 PM
+   Speed :            26043000 Bytes/sec.
+   Speed :            1490.192 MegaBytes/min.
+   Ended : Tuesday, January 6, 2026 5:50:32 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 41 
-[DEBUG] Successfully copied files: 41 
+[DEBUG] Total files counted: 45 
+[DEBUG] Successfully copied files: 45 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab: 
-      Total files: 41 
-      Copied successfully: 41 
+      Total files: 45 
+      Copied successfully: 45 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -341,7 +349,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, December 29, 2025 10:00:55 PM
+  Started : Tuesday, January 6, 2026 5:50:33 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\
      Dest : C:\GIT_BG3\MOD_REPOS\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\Generated\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab\
 
@@ -360,7 +368,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    12.2 k    12.2 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, December 29, 2025 10:00:55 PM
+   Ended : Tuesday, January 6, 2026 5:50:33 PM
 
  
 [DEBUG] Counting source files 
@@ -393,7 +401,7 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 41 
+[LOG] Files copied by xcopy: 45 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
@@ -402,8 +410,8 @@ SECTION 4: FINAL SUMMARY
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 51 
-[SUMMARY] Total files successfully copied: 102 
+[SUMMARY] Total files found: 55 
+[SUMMARY] Total files successfully copied: 110 
  
 [SUMMARY] All files were copied successfully 
  

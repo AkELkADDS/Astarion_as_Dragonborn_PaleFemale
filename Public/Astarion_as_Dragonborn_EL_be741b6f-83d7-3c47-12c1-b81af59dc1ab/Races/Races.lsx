@@ -5,8 +5,8 @@
         <node id="root">
             <children>
                 <node id="Race">
-                    <attribute id="Description" type="TranslatedString" handle="h3bdc5e7agba49g1398gd4f0g81979ce1b518" version="6"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h697682a3g2ad6ge4b2g26d1gf1e96a426cd5" version="5"/>
+                    <attribute id="Description" type="TranslatedString" handle="h3bdc5e7agba49g1398gd4f0g81979ce1b518" version="7"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h697682a3g2ad6ge4b2g26d1gf1e96a426cd5" version="6"/>
                     <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
                     <attribute id="Name" type="FixedString" value="UndeadHighElfHidden"/>
                     <attribute id="ParentGuid" type="guid" value="61a2c59d-fe8d-4644-8d04-6fae2b239eaf"/>

@@ -6,27 +6,27 @@
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
         <field name="UUID" type="IdTableFieldDefinition" value="3780c689-d903-41c2-bf64-1e6ec6a8e1e5" />
         <field name="Unique" type="BoolTableFieldDefinition" value="True" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hea58e382gafb1gcb8bgf99fg1874daf111be" version="1" />
-        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
-        <field name="RaceUUID" type="GuidTableFieldDefinition" color="#FF483D8B" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
-        <field name="AppearanceLocked" type="BoolTableFieldDefinition" color="#FF8B0000" value="True" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1d198fa4g5d3dg6453g31eagda9840561092" version="1" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" color="#FF800080" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="AppearanceLocked" type="BoolTableFieldDefinition" value="True" />
         <field name="GlobalTemplate" type="GuidTableFieldDefinition" value="c7c13742-bacd-460a-8f65-f864fe41f255" />
         <field name="NameFS" type="FixedStringTableFieldDefinition" value="Astarion" />
         <field name="ClassUUID" type="GuidTableFieldDefinition" value="e8b1eab0-ef11-40a2-8a0b-cee8d062bf2a" />
         <field name="SubClassUUID" type="GuidTableFieldDefinition" value="ede4778e-7602-440f-9075-b4bc8dc31cea" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb18783d7gaafdgfbccga513g8907e588e0f8" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h768e0739ge25dg2f2fgb5f1g66005396e355" version="1" />
         <field name="BackgroundUUID" type="GuidTableFieldDefinition" value="76925f0b-3ec8-4f42-86a9-cd4f745af2ac" />
         <field name="Passives" type="StringTableFieldDefinition" value="DeathSavingThrows" />
         <field name="VoiceTableUUID" type="GuidTableFieldDefinition" value="9270997a-8af5-4fb1-9cf3-26c515878d4b" />
         <field name="AvailableInCharacterCreation" type="EnumerationTableFieldDefinition" value="Available" enumeration_type_name="CharacterCreatorAvailabilityType" version="1" />
         <field name="ReallyTags" type="GuidObjectListTableFieldDefinition" value="ffd08582-7396-4cac-bcd4-8f9cd0fd8ef3" />
-        <field name="SubRaceUUID" type="GuidTableFieldDefinition" color="#FF800080" value="f4792c5f-8740-4f22-b77d-5df1e5753c46" />
+        <field name="SubRaceUUID" type="GuidTableFieldDefinition" color="#FF006400" value="f4792c5f-8740-4f22-b77d-5df1e5753c46" />
         <field name="CloseUpA" type="StringTableFieldDefinition" value="ELF_M_Camera_Closeup_A" />
         <field name="CloseUpB" type="StringTableFieldDefinition" value="ELF_M_Camera_Closeup_B" />
         <field name="ClassEquipmentOverride" type="FixedStringTableFieldDefinition" value="EQ_Astarion" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="LockClass" type="BoolTableFieldDefinition" value="True" />
-        <field name="LockBody" type="BoolTableFieldDefinition" color="#FF8B0000" value="True" />
+        <field name="LockBody" type="BoolTableFieldDefinition" value="True" />
         <field name="LockRace" type="BoolTableFieldDefinition" value="True" />
         <field name="IntroDialogUUID" type="GuidTableFieldDefinition" value="0985c3fd-2506-7d59-1146-bff949492a88" />
       </fields>

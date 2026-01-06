@@ -8,8 +8,8 @@
         <field name="ParentUUID" type="GuidTableFieldDefinition" value="61a2c59d-fe8d-4644-8d04-6fae2b239eaf" />
         <field name="RaceName" type="FixedStringTableFieldDefinition" value="UndeadHighElfHidden" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="33c625aa-6982-4c27-904f-e47029a9b140" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" color="#FF2F4F4F" handle="h697682a3g2ad6ge4b2g26d1gf1e96a426cd5" version="5" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" color="#FF2F4F4F" handle="h3bdc5e7agba49g1398gd4f0g81979ce1b518" version="6" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" color="#FF2F4F4F" handle="h697682a3g2ad6ge4b2g26d1gf1e96a426cd5" version="6" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" color="#FF2F4F4F" handle="h3bdc5e7agba49g1398gd4f0g81979ce1b518" version="7" />
         <field name="ProgressionTableUUID" type="GuidTableFieldDefinition" color="#FF2F4F4F" value="445a41db-995d-4e35-892a-4ab0e34d4594" />
         <field name="DisplayTypeUUID" type="GuidTableFieldDefinition" value="899d275e-9893-490a-9cd5-be856794929f" />
         <field name="SkinColors" type="GuidObjectListTableFieldDefinition" value="13b21142-24a0-4f2e-b794-29c3b4908f75;1c8510cd-0d67-4f83-b154-e065c5e619ad;e07d8e3f-cc09-408d-af25-87a13f1d007f;b5c24d90-03b9-4210-92e8-020f35a6065e;f45ad50c-4bfb-4397-8c98-8e18f43dc3ee;99cb4e4b-c22e-461d-af7d-f36c37cff9f7;c14d1f71-dbda-4783-b421-eb1e7035a2b5;bb006acb-0dff-498c-9616-c9e5238937ce;6158635f-dc17-4a91-99f4-86afd412995d;baf057c5-e29a-4e82-ac80-32cef6db7fdc;1db79a81-ec4f-4a71-968e-502c715de81f;e5502967-35ae-4982-8d3d-4561a1137b34" />
